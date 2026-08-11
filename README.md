@@ -1,8 +1,12 @@
 # Native macOS Desktop Quote Widget — Setup Guide
 
-This gives you a real WidgetKit widget: it shows up in the system widget
+Demo video:
+https://github.com/user-attachments/assets/3bf5a2f6-6fda-4b45-bedd-10ff5dd99852
+
+
+This gives a real native desktop macos widget: it shows up in the system widget
 gallery (right-click Desktop → Edit Widgets) exactly like the Calendar,
-Weather, and Bible-verse widgets in your screenshot, including native
+Weather, widgets, including native
 vibrancy/blur.
 
 Requires: a Mac with **Xcode** installed (free from the App Store), and
